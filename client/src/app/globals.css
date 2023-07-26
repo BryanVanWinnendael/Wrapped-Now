@@ -1,0 +1,35 @@
+body {
+  background-color: #090a0c;
+}
+
+option {
+  background-color: #171a20 !important;
+}
+
+.linkNext {
+  display: flex;
+  color: white;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.linkNext:hover {
+  color: #22c55e;
+}
+
+.wrappedIcon {
+  width: 50px;
+  height: 50px;
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+
+.linkAll {
+  padding: 10px 0 0 10px;
+  color: #22c55e;
+  font-size: large;
+}
+
+.linkAll:hover {
+  text-decoration: underline;
+}
