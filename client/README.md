@@ -23,3 +23,7 @@ Then run the client:
 ```bash
 npm run dev
 ```
+
+## Deployment
+
+For deployment I recommend using [Vercel](https://vercel.com/docs).
